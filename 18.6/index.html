@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Example</title>
+</head>
+<body>
+<div id="app">
+    <!--<label>-->
+    <!--男-->
+    <!--<input v-model="sex" value="male" type="checkbox">-->
+    <!--</label>-->
+    <!--<label>-->
+    <!--女-->
+    <!--<input v-model="sex" value="female" type="checkbox">-->
+    <!--</label>-->
+    <!--<br>-->
+    <!--{{sex}}-->
+    <!--<textarea v-model="article"></textarea>-->
+    <div>你来自哪里？</div>
+    <select v-model="from">
+        <option value="1">王家沟</option>
+        <option value="2">背背山</option>
+    </select>
+    {{from}}
+    <div>你要去哪里？</div>
+    <select v-model="dest" multiple>
+        <option value="1">王家沟</option>
+        <option value="2">背背山</option>
+        <option value="3">背背山</option>
+        <option value="4">背背山</option>
+        <option value="5">背背山</option>
+    </select>
+    {{dest}}
+</div>
+<script src="../lib/vue.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

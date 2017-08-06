@@ -9,9 +9,11 @@
 </head>
 <body>
 <div id="app">
-    <ul>
-        <li v-for="food in foodList">{{food.name}}：￥{{food.discount? food.price * food.discount : food.price}}</li>
-    </ul>
+    <button v-on="{mouseenter: onEnter, mouseleave: onOut}" @click="onClick">点我</button>
+    <form @keyup.enter="onEnter" @submit.prevent="onSubmit">
+        <input type="text">
+        <button type="submit">提交</button>
+    </form>
 </div>
 <script src="../lib/vue.js"></script>
 <script src="js/main.js"></script>
