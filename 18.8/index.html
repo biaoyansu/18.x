@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Example</title>
+</head>
+<body>
+<div id="app">
+    <table border="1">
+        <thead>
+        <th>学科</th>
+        <th>分数</th>
+        </thead>
+        <tbody>
+        <tr>
+            <td>数学</td>
+            <td><input type="text" v-model="math"></td>
+        </tr>
+        <tr>
+            <td>物理</td>
+            <td><input type="text" v-model="physics"></td>
+        </tr>
+        <tr>
+            <td>英语</td>
+            <td><input type="text" v-model="english"></td>
+        </tr>
+        <tr>
+            <td>总分</td>
+            <td>{{sum}}</td>
+        </tr>
+        <tr>
+            <td>平均分</td>
+            <td>{{average}}</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+<script src="../lib/vue.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
