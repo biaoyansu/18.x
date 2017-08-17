@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ceec1fb5-3633-4dc9-8460-6e364ca52d72" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18.17/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18.17/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18.18/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18.18/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/18.18/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+            <state relative-caret-position="366">
+              <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -195,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -277,15 +273,18 @@
       <listeners />
     </configuration>
     <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/18.x/18.2/index.html" />
+    <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/18.x/18.18/index.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/18.x/18.1/index.html" />
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -332,15 +331,16 @@
       <workItem from="1502803666927" duration="25000" />
       <workItem from="1502803711872" duration="2808000" />
       <workItem from="1502905695398" duration="130000" />
-      <workItem from="1502936672728" duration="928000" />
+      <workItem from="1502936672728" duration="1146000" />
+      <workItem from="1502975113241" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64620000" />
+    <option name="totallyTimeSpent" value="64892000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1024" height="640" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -349,7 +349,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32777777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31640625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -708,42 +708,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding>
-            <marker date="1502805596000" expanded="true" signature="11:284" ph="{...}" />
-            <marker date="1502805596000" expanded="true" signature="24:214" ph="{...}" />
-            <marker date="1502805596000" expanded="true" signature="48:82" ph="{...}" />
-            <marker date="1502805596000" expanded="true" signature="106:141" ph="{...}" />
-            <marker date="1502805596000" expanded="true" signature="167:210" ph="{...}" />
-            <marker date="1502805596000" expanded="true" signature="236:282" ph="{...}" />
-            <marker date="1502805596000" expanded="true" signature="249:278" ph="{...}" />
-            <marker date="1502805596000" expanded="true" signature="312:538" ph="{&quot;template&quot;: `&#10;  &lt;div&gt;&#10;    &lt;span @mouseenter=&quot;show&quot; @mouseleave=&quot;hide&quot;&gt;bys&lt;/span&gt;&#10;    &lt;div v-if=&quot;visible&quot;&gt;&#10;    白岩松&#10;    &lt;/div&gt;&#10;  &lt;/div&gt;&#10;  `...}" />
-            <marker date="1502805596000" expanded="true" signature="334:446" ph="..." />
-            <marker date="1502805596000" expanded="true" signature="418:437" ph="..." />
-            <marker date="1502805596000" expanded="true" signature="491:536" ph="{...}" />
-            <marker date="1502805596000" expanded="true" signature="504:532" ph="{...}" />
-            <marker date="1502805596000" expanded="true" signature="565:998" ph="{&quot;template&quot;: `&#10;  &lt;div&gt;&#10;    &lt;button @click=&quot;toggle&quot;&gt;Popup&lt;/button&gt;&#10;        &lt;div v-if=&quot;visible&quot;&gt;&#10;        &lt;span @click=&quot;hide&quot;&gt;X&lt;/span&gt;&#10;          &lt;h4&gt;title&lt;/h4&gt;&#10;    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet dolorum, iusto non nostrum porro ratione. Dolor dolorem id impedit. Dolore excepturi exercitationem incidunt iste magnam odio quas temporibus. Assumenda, magni.&#10;        &lt;/div&gt;&#10;  &lt;/div&gt;&#10;  `...}" />
-            <marker date="1502805596000" expanded="true" signature="587:973" ph="..." />
-            <marker date="1502805596000" expanded="true" signature="659:964" ph="..." />
-            <marker date="1502805596000" expanded="true" signature="1010:1038" ph="{&quot;el&quot;: '##app'...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/18.18/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <marker date="1502937322000" expanded="true" signature="23:52" ph="{&quot;template&quot;: '##panel-tpl'...}" />
-            <marker date="1502937322000" expanded="true" signature="63:91" ph="{&quot;el&quot;: '##app'...}" />
+            <marker date="1502975162000" expanded="true" signature="23:52" ph="{&quot;template&quot;: '##panel-tpl'...}" />
+            <marker date="1502975162000" expanded="true" signature="63:91" ph="{&quot;el&quot;: '##app'...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/18.18/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        <state relative-caret-position="366">
+          <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
           <folding />
         </state>
       </provider>
